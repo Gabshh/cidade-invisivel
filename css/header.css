@@ -9,8 +9,8 @@ header {
 
 .menu ul {
   display: flex;
-  list-style: none;
   gap: 30px;
+  margin-top: 20px;
 }
 
 .menu a {
