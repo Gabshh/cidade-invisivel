@@ -14,10 +14,12 @@ main h2 {
 main h1 {
   font-size: 4.5rem;
 }
+
 main p {
   width: 800px;
   font-size: 1.5rem;
   font-weight: 100;
+  margin: 13px;
 }
 
 main a {
@@ -26,16 +28,16 @@ main a {
   align-items: center;
   width: 200px;
   height: 50px;
-  background-color: #dd8432;
+  background-color: #ff973d;
   color: #000;
   text-decoration: none;
   border-radius: 5px;
   font-size: 1.5rem;
-  transition: all 1s;
+  transition: all 0.5s;
   margin-top: 40px;
 }
 main a:hover {
-  border: 1px solid #dd8432;
+  border: 1px solid #ff973d;
   background-color: #000;
   color: #fff;
 }
